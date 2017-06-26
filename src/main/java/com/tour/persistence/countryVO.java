@@ -7,6 +7,7 @@ public class countryVO {
 	private String image;
 	private double latitude;
 	private double longitude;
+	
 	public int getCountryId() {
 		return countryId;
 	}
